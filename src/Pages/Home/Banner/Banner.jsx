@@ -1,4 +1,3 @@
-import img1 from '../../../assets/book logo.png'
 const Banner = () => {
     return (
         <div className="carousel w-full h-[600px]">
