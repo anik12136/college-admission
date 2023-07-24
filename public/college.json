@@ -1,0 +1,298 @@
+[
+    {   "id" : 1,
+        "college_name": "Notre Dame College",
+        "college_image": "https://i0.wp.com/edunews.com.bd/wp-content/uploads/2020/06/NDC-Admission-min.jpg?",
+        "admission_dates": "August 1 - August 15",
+        "events": [
+            {
+                "event_name": "Orientation Program",
+                "event_date": "August 20, 2023",
+                "event_description": "An introduction to the college for new students."
+            },
+            {
+                "event_name": "Annual Sports Day",
+                "event_date": "November 10, 2023",
+                "event_description": "A day of sports and games for students and faculty."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Study on Climate Change",
+                "research_date": "2020",
+                "research_description": "A comprehensive study on the impact of climate change in the region."
+            },
+            {
+                "research_title": "Economic Growth Trends",
+                "research_date": "2019",
+                "research_description": "Analysis of economic growth patterns over the past decade."
+            }
+        ],
+        "sports_categories": [
+            "Football",
+            "Cricket",
+            "Basketball"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 4.0 in SSC and HSC",
+            "application_deadline": "August 15, 2023",
+            "admission_test": "Written and Viva Voce",
+            "interview_dates": "August 25 - August 30, 2023",
+            "admission_result": "September 5, 2023"
+        }
+    },
+
+    {   "id" : 2,
+        "college_name": "Residential College",
+        "college_image": "https://resultinbd.net/wp-content/uploads/2021/12/DRMC-logo.gif",
+        "admission_dates": "July 25 - August 10",
+        "events": [
+            {
+                "event_name": "Freshers' Welcome",
+                "event_date": "August 18, 2023",
+                "event_description": "A warm welcome event for the new batch of students."
+            },
+            {
+                "event_name": "Science Fair",
+                "event_date": "October 5, 2023",
+                "event_description": "An exhibition of scientific projects and innovations by students."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Healthcare Innovations",
+                "research_date": "2021",
+                "research_description": "Research on advancements in healthcare technologies."
+            },
+            {
+                "research_title": "Sustainable Agriculture",
+                "research_date": "2018",
+                "research_description": "Efforts to promote sustainable farming practices."
+            }
+        ],
+        "sports_categories": [
+            "Badminton",
+            "Volleyball",
+            "Chess"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 3.5 in SSC and HSC",
+            "application_deadline": "August 10, 2023",
+            "admission_test": "Written Test",
+            "interview_dates": "August 20 - August 25, 2023",
+            "admission_result": "September 2, 2023"
+        }
+    },
+
+    {   "id" : 3,
+        "college_name": "Dhaka College",
+        "college_image": "https://www.kalerkantho.com/_next/image?url=http%3A%2F%2Fecdn.kalerkantho.com%2Fpublic%2Fnews_images%2F2023%2F03%2F05%2F1678020660-fb5b2132b0545c91b086e71b6ef1807f.jpg",
+        "admission_dates": "August 1 - August 15",
+        "events": [
+            {
+                "event_name": "Orientation Program",
+                "event_date": "August 20, 2023",
+                "event_description": "An introduction to the college for new students."
+            },
+            {
+                "event_name": "Annual Sports Day",
+                "event_date": "November 10, 2023",
+                "event_description": "A day of sports and games for students and faculty."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Study on Climate Change",
+                "research_date": "2020",
+                "research_description": "A comprehensive study on the impact of climate change in the region."
+            },
+            {
+                "research_title": "Economic Growth Trends",
+                "research_date": "2019",
+                "research_description": "Analysis of economic growth patterns over the past decade."
+            }
+        ],
+        "sports_categories": [
+            "Football",
+            "Cricket",
+            "Basketball"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 4.0 in SSC and HSC",
+            "application_deadline": "August 15, 2023",
+            "admission_test": "Written and Viva Voce",
+            "interview_dates": "August 25 - August 30, 2023",
+            "admission_result": "September 5, 2023"
+        }
+    },
+
+
+    {   "id" : 4,
+        "college_name": "Dhaka city College",
+        "college_image": "https://i0.wp.com/jobbd.net/wp-content/uploads/2022/12/Dhaka-City-College-Job-Circular-2023.gif",
+        "admission_dates": "July 25 - August 10",
+        "events": [
+            {
+                "event_name": "Freshers' Welcome",
+                "event_date": "August 18, 2023",
+                "event_description": "A warm welcome event for the new batch of students."
+            },
+            {
+                "event_name": "Science Fair",
+                "event_date": "October 5, 2023",
+                "event_description": "An exhibition of scientific projects and innovations by students."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Healthcare Innovations",
+                "research_date": "2021",
+                "research_description": "Research on advancements in healthcare technologies."
+            },
+            {
+                "research_title": "Sustainable Agriculture",
+                "research_date": "2018",
+                "research_description": "Efforts to promote sustainable farming practices."
+            }
+        ],
+        "sports_categories": [
+            "Badminton",
+            "Volleyball",
+            "Chess"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 3.5 in SSC and HSC",
+            "application_deadline": "August 10, 2023",
+            "admission_test": "Written Test",
+            "interview_dates": "August 20 - August 25, 2023",
+            "admission_result": "September 2, 2023"
+        }
+    },
+
+    {   "id" : 5,
+        "college_name": "Rajuk Uttara Model College",
+        "college_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RAJUK_Uttara_Model_College_main_academic_building.jpg/1024px-RAJUK_Uttara_Model_College_main_academic_building.jpg",
+        "admission_dates": "September 1 - September 20",
+        "events": [
+            {
+                "event_name": "Cultural Fest",
+                "event_date": "September 25, 2023",
+                "event_description": "A celebration of the diverse cultural heritage of the college community."
+            },
+            {
+                "event_name": "Graduation Ceremony",
+                "event_date": "December 30, 2023",
+                "event_description": "A ceremony to honor and award the graduating students."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Urban Planning and Development",
+                "research_date": "2019",
+                "research_description": "Studies on urban growth and its implications for sustainable development."
+            },
+            {
+                "research_title": "Gender Equality in Education",
+                "research_date": "2022",
+                "research_description": "Exploring ways to promote gender equality in educational institutions."
+            }
+        ],
+        "sports_categories": [
+            "Table Tennis",
+            "Swimming",
+            "Athletics"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 3.0 in SSC and HSC",
+            "application_deadline": "September 20, 2023",
+            "admission_test": "Written Test and Interview",
+            "interview_dates": "September 25 - September 30, 2023",
+            "admission_result": "October 5, 2023"
+        }
+    },
+
+
+    {   "id" : 5,
+        "college_name": "XYZ College",
+        "college_image": "xyz_college.jpg",
+        "admission_dates": "July 10 - July 30",
+        "events": [
+            {
+                "event_name": "Literary Festival",
+                "event_date": "August 5, 2023",
+                "event_description": "A celebration of literature, poetry, and art."
+            },
+            {
+                "event_name": "Debate Competition",
+                "event_date": "October 15, 2023",
+                "event_description": "An intercollegiate debate competition to promote critical thinking."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Environmental Conservation",
+                "research_date": "2021",
+                "research_description": "Efforts to protect and preserve the environment."
+            },
+            {
+                "research_title": "Digital Transformation in Education",
+                "research_date": "2020",
+                "research_description": "Exploring the integration of technology in the education sector."
+            }
+        ],
+        "sports_categories": [
+            "Basketball",
+            "Cricket",
+            "Karate"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 3.2 in SSC and HSC",
+            "application_deadline": "July 30, 2023",
+            "admission_test": "Written Test",
+            "interview_dates": "August 5 - August 10, 2023",
+            "admission_result": "August 15, 2023"
+        }
+    },
+
+    {
+        "id" : 6,
+        "college_name": "Adamjee Cantonment College",
+        "college_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ACC_Campus.jpg/1200px-ACC_Campus.jpg",
+        "admission_dates": "June 15 - June 30",
+        "events": [
+            {
+                "event_name": "Independence Day Celebration",
+                "event_date": "March 26, 2023",
+                "event_description": "Commemorating the Independence Day of Bangladesh."
+            },
+            {
+                "event_name": "Career Fair",
+                "event_date": "October 20, 2023",
+                "event_description": "Connecting students with potential employers and job opportunities."
+            }
+        ],
+        "research_history": [
+            {
+                "research_title": "Public Health Initiatives",
+                "research_date": "2022",
+                "research_description": "Research on public health campaigns and their impact on communities."
+            },
+            {
+                "research_title": "Education for Social Empowerment",
+                "research_date": "2019",
+                "research_description": "Exploring the role of education in empowering marginalized communities."
+            }
+        ],
+        "sports_categories": [
+            "Football",
+            "Tennis",
+            "Swimming"
+        ],
+        "admission_process": {
+            "eligibility_criteria": "Minimum GPA 3.0 in SSC and HSC",
+            "application_deadline": "June 30, 2023",
+            "admission_test": "Written Test and Interview",
+            "interview_dates": "July 5 - July 10, 2023",
+            "admission_result": "July 15, 2023"
+        }
+    }
+]
